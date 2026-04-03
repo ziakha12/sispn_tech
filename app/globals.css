@@ -34,3 +34,14 @@ body {
   background-size: 100% 100%;
 
 }
+.seo{
+  background: url('./../public/seo-bg/seo-bg.png') center ;
+  background-size:cover;
+
+}
+
+.web{
+  background: url('./../public/web-bg.png') center ;
+  background-size:cover;
+
+}
